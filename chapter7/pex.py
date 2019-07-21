@@ -32,8 +32,3 @@ for group in range(len(mo1)):
 
 print(mo)
 print(mo1)
-
-"""
-a string of characters before an @, a string of characters after an @
-toby.dudley@dudley.com and the foo@bar.com andwhat with the space@flop.com fa2@gmail.com teee@live.co.uk
-"""
